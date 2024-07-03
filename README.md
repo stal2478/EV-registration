@@ -61,6 +61,13 @@ Dataset is a 33774x32 matrix, with columns (0 to 31)
 | 30 | pop_25up_hsup | 25 years and over - High school graduate or higher |
 | 31 | pop_25up_bsup | 25 years and over - Bachelor's degree or higher |
 
+
+Sourced from 2016 - 2020 Census Data, by zip code
+- B08141	| Means of transportation to work by vehicles available (workers >=16 y/o)
+- S0101		| Age and Sex
+- P9	 	| Hispanic or latino, no not hispanic or latino by race
+
+
 <a name='3'></a>
 ## Using EV-registration
 *under construction*
